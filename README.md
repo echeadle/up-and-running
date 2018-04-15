@@ -1,2 +1,3 @@
-# up-and-running
-From Orielly Book Terraform Up and Running
+
+
+terraform graph -verbose | dot -Tpng > graph.png
